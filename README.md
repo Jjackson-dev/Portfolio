@@ -9,12 +9,12 @@ smj7172@naver.com
 
 ## ***Education***
 
-- Hanshin University
+- 한신대학교
 
-    Bachelor of Science with double major in Computer Science and Applied Statistics 
-
+    컴퓨터공학부, 응용통계학과 복수전공  
+   #
 ---
-
+   
 ## ***Own Project***
 
 - 교내 스마트 맵 서비스 어플리케이션
@@ -46,9 +46,9 @@ smj7172@naver.com
 - R
 
     Applied Statistics
-
+   #
 ---
-
+   
 ## ***Achievement***
 
 ### FOUNDERS x 삼성전자 블록체인 해커톤 우수수료 및 대상                2020.02.14
