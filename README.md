@@ -1,5 +1,5 @@
 # ***Portfolio***
-![Alt text](/path/to/증사.jpg)
+![Alt text](/증사.jpg)
 ### **송민재 (Min-Jae, Song)**
 1996.02.07  
 smj7172@naver.com   
