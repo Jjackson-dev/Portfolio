@@ -1,9 +1,9 @@
 # ***Portfolio***
 ### **송민재 (Min-Jae, Song)**
 
-                                                         1996.02.07  
-                                                      smj7172@naver.com
-                                                       +82 10-7536-7176
+1996.02.07  
+smj7172@naver.com
++82 10-7536-7176
 ---
 
 ## ***Education***
@@ -57,6 +57,7 @@
 - 언론 기사 : [https://www.sedaily.com/NewsView/1YYYH6I3RX](https://www.sedaily.com/NewsView/1YYYH6I3RX)   (서울경제)
 - 소스코드
 GitHub : [Founders x Samsung][Samsunglink]
+
 [Samsunglink]: https://github.com/hsu-201458085/Founders_Samsung "Linked GitHub"
 
 ---
