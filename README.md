@@ -15,7 +15,7 @@ smj7172@naver.com
 
 ---
 
-## *Own Project*
+## ***Own Project***
 
 - 교내 스마트 맵 서비스 어플리케이션
 
@@ -23,7 +23,7 @@ smj7172@naver.com
 
 ---
 
-## *Programming Language Skills*
+## ***Programming Language Skills***
 
 - Python
 
@@ -63,9 +63,10 @@ GitHub : [Founders x Samsung][Samsunglink]
 
 [Samsunglink]: https://github.com/hsu-201458085/Founders_Samsung "Linked GitHub"
 ![Alt text](/samsung.jpg)
+
 ---
 
-## *Activites*
+## ***Activites***
 
 ### SK 인싸잇 블록체인 해커톤                                     2019.07.22 ~ 08.02 (14 days)
 
@@ -75,8 +76,10 @@ GitHub : [Founders x SK C&C][SKlink]
 
 [SKlink]: https://github.com/hsu-201458085/Portfolio/Activites/Founders_2rd "Linked GitHub"
 ![Alt text](/founders2.jpg)
-
-> **성균관대학교 자율주행자동차 경진대회                  2019.08.20 ~ 08.23 (4 days)
+   
+   
+   
+### 성균관대학교 자율주행자동차 경진대회                  2019.08.20 ~ 08.23 (4 days)
 
 - 주최 : 성균관대학교
 - Code(Arduino, C) & Details
@@ -84,8 +87,10 @@ GitHub : [Arduino_project][SK2link]
 
 [SK2link]: https://github.com/hsu-201458085/Arduino_Project_SmartCar "Linked GitHub"
 ![Alt text](/arduino.jpg)
-
-> **2019 경기도 블록체인 해커톤 결선                                                     2019.09.26
+   
+    
+    
+### 2019 경기도 블록체인 해커톤 결선                                                     2019.09.26
 
 - 주최 :  경기도청
 - Code(Javascript) & Details
@@ -93,8 +98,10 @@ GitHub : [Gyeonggi_BlockChain][GBlink]
 
 [GBlink]: https://github.com/hsu-201458085/MyReactPage "Linked GitHub"
 ![Alt text](/Gyeonggi_BC.jpg)
-
-> AI 이노베이션 스퀘어 오프라인 강의 수료             2019.09.07 ~ 12.01 (160시간)
+   
+    
+    
+### AI 이노베이션 스퀘어 오프라인 강의 수료             2019.09.07 ~ 12.01 (160시간)
 
 - 주최 : 과학기술정보통신부
 - 강사 : 박성호 교수님 - [교수님 유튜브 채널][youtubelink]
@@ -102,8 +109,10 @@ GitHub : [Gyeonggi_BlockChain][GBlink]
 [youtubelink]: https://www.youtube.com/channel/UCZAkjFAaT9gZk-nol6EIX9w
 - 주요 내용 :  ML/DL의 수학적 기본 원리, Python으로 DL구현, tensorflow 이용 CNN 구현
 ![Alt text](/ai_innovation.jpg)
-
-> FOUNDERS x 삼성전자 블록체인 해커톤                2020.02.02 ~ 02.14 (14 days)
+   
+    
+    
+### FOUNDERS x 삼성전자 블록체인 해커톤                2020.02.02 ~ 02.14 (14 days)
 
 - 주최 :  디센터, 삼성전자 블록체인
 - Details
