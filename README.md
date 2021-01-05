@@ -20,8 +20,10 @@ smj7172@naver.com
 - AI College 산학협력 프로젝트 (다임리서치) 
     - OHT기기의 이상 감지 프로젝트 
     - AnoGAN 이용
-
-    JAVA, MySQL, Server, Android App   
+    - Python Keras tensorflow AnoGAN 
+    - 참고 논문 : 
+       - [Generative Adversarial Nets](https://proceedings.neurips.cc/paper/2014/file/5ca3e9b122f61f8f06494c97b1afccf3-Paper.pdf)
+       - [Unsupervised Anomaly Detection with Generative Adversarial Networks to Guide Marker Discovery](https://arxiv.org/abs/1703.05921)
 #
 ---
 
