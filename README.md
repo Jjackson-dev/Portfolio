@@ -17,7 +17,9 @@ smj7172@naver.com
    
 ## ***Own Project***
 
-- 교내 스마트 맵 서비스 어플리케이션
+- AI College 산학협력 프로젝트 (다임리서치) 
+    - OHT기기의 이상 감지 프로젝트 
+    - AnoGAN 이용
 
     JAVA, MySQL, Server, Android App   
 #
