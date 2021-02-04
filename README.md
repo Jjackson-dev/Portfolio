@@ -35,22 +35,23 @@ smj7172@naver.com
     Main Language in ML/DL
 
     Tensorflow, keras, scikit-learn
-
-    Participate in Kaggle, Dacon competition
+    
+    Django 
 
 - JAVA
-
-    Application Development
-
-    Android SDK
+    
 
 - C, Javascript
+ 
+    arduino proejct(C), 해커톤 발표용 웹제작 (Javascript)
+   
 
-    Partially developed as needed
-
-- R
+- R, SAS
 
     Applied Statistics   
+        Reggression Analysis
+        Timeseries Analysis 
+        
 #
 ---
    
