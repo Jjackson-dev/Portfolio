@@ -17,7 +17,7 @@ smj7172@naver.com
    
 ## ***Own Project***
 
-- AI College 산학협력 프로젝트 (OHT 강화학습 연구기업 - OO리서치)  
+- AI College 산학협력 프로젝트 (OHT 강화학습 연구기업 - 다임리서치)  
     - OHT기기의 이상 감지 프로젝트 
     - GAN을 응용한 Anomaly detection 모델인 AnoGAN활용 
     - Development Stack : Python Keras tensorflow AnoGAN Scikit-Learn
