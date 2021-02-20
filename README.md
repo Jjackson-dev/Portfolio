@@ -21,8 +21,8 @@ smj7172@naver.com
 
 - Algorithm & Python Study 
    - 알고리즘과 파이썬을 깊게 알고싶은 프로젝트
-   - [Algorithm]
-   - [Python]
+   - [Algorithm](https://github.com/hsu-201458085/Algorithm)
+   - [Python](https://github.com/hsu-201458085/Python_Study)
 #
 ---
 
