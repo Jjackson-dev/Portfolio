@@ -10,13 +10,19 @@ smj7172@naver.com
 ## ***Own Project***
 
 - AI College 산학협력 프로젝트 (OHT 강화학습 연구기업 - 다임리서치)  
-    - OHT기기의 이상 감지 프로젝트 
+    - OHT기기의 이상 감지 개인 프로젝트 
     - GAN을 응용한 Anomaly detection 모델인 AnoGAN활용 
-    - Development Stack : Python Keras tensorflow AnoGAN Scikit-Learn
+    - Development Stack : Python Keras Scikit-Learn
+    - 특이사항 : Image 데이터가 아닌 Structed Data에 AnoGAN을 적용해보는 시도
     - 참고 논문 : 
        - [Generative Adversarial Nets](https://proceedings.neurips.cc/paper/2014/file/5ca3e9b122f61f8f06494c97b1afccf3-Paper.pdf)
        - [Unsupervised Anomaly Detection with Generative Adversarial Networks to Guide Marker Discovery](https://arxiv.org/abs/1703.05921)
        - [Time Series Anomaly Detection Based on GAN](https://ieeexplore.ieee.org/abstract/document/8931714)
+
+- Algorithm & Python Study 
+   - 알고리즘과 파이썬을 깊게 알고싶은 프로젝트
+   - [Algorithm]
+   - [Python]
 #
 ---
 
