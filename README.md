@@ -6,14 +6,6 @@ smj7172@naver.com
 010-7536-7176   
 
 ---
-
-## ***Education***
-
-- 한신대학교 재학  
-
-    주전공 : 컴퓨터공학부 /  복수전공 : 응용통계학과      
-#
----
    
 ## ***Own Project***
 
@@ -35,8 +27,7 @@ smj7172@naver.com
     Main Language in ML/DL
 
     Tensorflow, keras, scikit-learn
-    
-    Django 
+
 
 - JAVA
     
@@ -124,3 +115,14 @@ GitHub : [Gyeonggi_BlockChain][GBlink]
 - Details
 ![Alt text](/founders3.jpg)   
 #
+
+---
+
+## ***Education***
+
+- 한신대학교 재학  
+
+    주전공 : 컴퓨터공학부 /  복수전공 : 응용통계학과      
+#
+
+
