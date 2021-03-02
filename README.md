@@ -14,6 +14,7 @@ smj7172@naver.com
     - GAN을 응용한 Anomaly detection 모델인 AnoGAN활용 
     - Development Stack : Python Keras Scikit-Learn
     - 특이사항 : Image 데이터가 아닌 Structed Data에 AnoGAN을 적용해보는 시도
+    - 소스코드 : 정리 후 업로드예
     - 참고 논문 : 
        - [Generative Adversarial Nets](https://proceedings.neurips.cc/paper/2014/file/5ca3e9b122f61f8f06494c97b1afccf3-Paper.pdf)
        - [Unsupervised Anomaly Detection with Generative Adversarial Networks to Guide Marker Discovery](https://arxiv.org/abs/1703.05921)
